@@ -1,0 +1,25 @@
+{
+  "name": "entregable",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "node src/test/index.js",
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanCelli/Coder-BackEnd-Entregable1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanCelli/Coder-BackEnd-Entregable1/issues"
+  },
+  "homepage": "https://github.com/JuanCelli/Coder-BackEnd-Entregable1#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
