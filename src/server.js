@@ -6,7 +6,7 @@ import { validationNumPositive } from "./utils/validationNumPositive.js"
 const app = express()
 const PORT = 3000 
 
-const productManager = new ProductManager
+const productManager = new ProductManager()
 
 
 
